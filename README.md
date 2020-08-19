@@ -7,7 +7,7 @@
 ## I'm an undergraduate CS student at the University Of St Andrews!
 - 🔭 I’m currently working on  [Harvard CS50x][cs50]!
 - 🥅 2020 Goals: Learn Java
--  Favourite programmimg language -> Python
+- :snake: Favourite programming language -> Python
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.anuragreggie.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
