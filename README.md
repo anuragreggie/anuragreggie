@@ -7,9 +7,11 @@
 ## I'm an undergraduate CS student at the University Of St Andrews!
 - 🔭 I’m currently working on  [Harvard CS50x][cs50]!
 - 🥅 2020 Goals: Learn Java
+<br />
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.anuragreggie.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<br />
 
 <!--### Most used languages-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragreggie&layout=compact)](https://github.com/anuragreggie/github-readme-stats)-->
