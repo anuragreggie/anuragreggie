@@ -5,7 +5,7 @@
 [<img align="left" alt="Anurag | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 <br />
 ## I'm an undergraduate CS student at the University Of St Andrews!
-- 🔭 I’m currently working on  [Harvard CS50x][cs50]!
+- :books: I’m currently working on  [Harvard CS50x][cs50]!
 - 🥅 2020 Goals: Learn Java
 - :snake: Favourite programming language :point_right: Python
 
