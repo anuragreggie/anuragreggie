@@ -3,6 +3,7 @@
 [<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anurag | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+<br />
 ## I'm an undergraduate CS student at the University Of St Andrews!
 - 🔭 I’m currently working on  [Harvard CS50x][cs50]!
 - 🥅 2020 Goals: Learn Java
