@@ -10,8 +10,9 @@
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.anuragreggie.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-<br />
 
+<br />
+<br />
 <!--### Most used languages-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragreggie&layout=compact)](https://github.com/anuragreggie/github-readme-stats)-->
 ### GitHub stats
