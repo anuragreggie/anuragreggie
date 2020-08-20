@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Learn Java
 - :snake: Favourite programming language :point_right: Python
 
-### Spotify Playing 🎧
+### <font color='#1ED760'>Spotify Playing</font> 🎧
 [<img src="https://novatorem.anuragreggie.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br />
