@@ -22,24 +22,18 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
-[<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/c.svg" />][c]
-[<img align="left" alt="Deno" width="26px" src="https://simpleicons.org/icons/java.svg" />][java]
+[<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
+[<img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />][c]
+[<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />][java]
 [<img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />][sql]
 <br />
 
 
 
 ---
-
-[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/anuragreggie
 [instagram]: https://instagram.com/anurag.r_
 [linkedin]: https://uk.linkedin.com/in/anurag-suresh-562231198?trk=people-guest_people_search-card
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [python]: https://www.python.org/about/
 [c]: https://visualstudio.microsoft.com/vs/features/cplusplus/
 [java]: http://jdk.java.net/
