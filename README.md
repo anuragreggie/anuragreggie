@@ -1,7 +1,6 @@
 ### Hey, I'm Anurag 
 [<img align="left" alt="Anurag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anurag | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 <br />
 ## I'm an undergraduate CS student at the University Of St Andrews!
@@ -32,7 +31,6 @@
 
 ---
 [twitter]: https://twitter.com/anuragreggie
-[instagram]: https://instagram.com/anurag.r_
 [linkedin]: https://uk.linkedin.com/in/anurag-suresh-562231198?trk=people-guest_people_search-card
 [python]: https://www.python.org/about/
 [c]: https://visualstudio.microsoft.com/vs/features/cplusplus/
