@@ -4,16 +4,6 @@
 [<img align="left" alt="Anurag | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 <br />
 ## I'm an undergraduate CS student at the University Of St Andrews!
-- :books: I’m currently working on  [Harvard CS50x][cs50]!
-- 🥅 2020 Goals: Learn Java
-- :snake: Favourite programming language :point_right: Python
-
-### <font color='#1ED760'>Spotify Playing</font> 🎧
-[<img src="https://novatorem.anuragreggie.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<br />
-
-
 ### GitHub stats
 ![Anurag's github stats](https://github-readme-stats.anuragreggie.vercel.app/api?username=anuragreggie&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragreggie&layout=compact&theme=dark)](https://github.com/anuragreggie/github-readme-stats)
