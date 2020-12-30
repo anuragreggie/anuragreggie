@@ -1,6 +1,6 @@
 ### Hey, I'm Anurag 
-[<img align="left" alt="Anurag | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
-[<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][linkedin]
+[<img align="left" alt="Anurag | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][website]
+[<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ## I'm an undergraduate CS student at the University Of St Andrews!
