@@ -20,7 +20,7 @@
 
 
 ---
-[website]: www.anuragsuresh.com
+[website]: http://www.anuragsuresh.com/
 [linkedin]: https://uk.linkedin.com/in/anurag-suresh-562231198?trk=people-guest_people_search-card
 [python]: https://www.python.org/about/
 [c]: https://visualstudio.microsoft.com/vs/features/cplusplus/
