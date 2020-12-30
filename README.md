@@ -1,7 +1,8 @@
 ### Hey, I'm Anurag 
 [<img align="left" alt="Anurag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Anurag | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Anurag | Website" width="22px" src="file:///C:/Users/Anura/Downloads/houzz%20(1).svg" />][website]
+
 <br />
 ## I'm an undergraduate CS student at the University Of St Andrews!
 ### GitHub stats
@@ -20,6 +21,7 @@
 
 
 ---
+[website]: https://anuragsuresh.com
 [twitter]: https://twitter.com/anuragreggie
 [linkedin]: https://uk.linkedin.com/in/anurag-suresh-562231198?trk=people-guest_people_search-card
 [python]: https://www.python.org/about/
@@ -27,4 +29,3 @@
 [java]: http://jdk.java.net/
 [sql]: https://www.w3schools.com/sql/
 [cs50]: https://cs50.harvard.edu/x/2020/
-[facebook]: https://www.facebook.com/anurag.reggie
