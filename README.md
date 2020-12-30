@@ -1,9 +1,9 @@
 ### Hey, I'm Anurag 
 [<img align="left" alt="Anurag | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
-[<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/houzz.svg" />][linkedin]
+[<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][linkedin]
 <br />
 
-
+## I'm an undergraduate CS student at the University Of St Andrews!
 ### GitHub stats
 ![Anurag's github stats](https://github-readme-stats.anuragreggie.vercel.app/api?username=anuragreggie&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragreggie&layout=compact&theme=dark)](https://github.com/anuragreggie/github-readme-stats)
