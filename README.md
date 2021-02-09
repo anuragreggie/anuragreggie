@@ -4,7 +4,6 @@
 <br />
 
 ### I'm an undergraduate CS student at the University Of St Andrews!
-### GitHub stats
 ![Anurag's github stats](https://github-readme-stats.anuragreggie.vercel.app/api?username=anuragreggie&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragreggie&layout=compact&theme=dark)](https://github.com/anuragreggie/github-readme-stats)
 
