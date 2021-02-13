@@ -1,5 +1,5 @@
 ## Hey, I'm Anurag 
-[<img align="left" alt="Anurag | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][website]
+[<img align="left" alt="Anurag | Website" width="22px" src="https://simpleicon.com/wp-content/uploads/home-2.png" />][website]
 [<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
