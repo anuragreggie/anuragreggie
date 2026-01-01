@@ -1,5 +1,3 @@
-<h1 align="center">Hey, I'm Anurag </h1>
-
 <div id="badges" align="center">
   <a href="http://anuragsuresh.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website-Badge"/>
@@ -22,3 +20,4 @@
 
 [website]: http://www.anuragsuresh.com/
 [linkedin]: https://www.linkedin.com/in/anurag-st-andrews/
+
