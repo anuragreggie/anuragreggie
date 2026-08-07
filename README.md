@@ -1,20 +1,23 @@
-<div id="badges" align="center">
-  <a href="http://anuragsuresh.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website-Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anurag-suresh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <h2>anurag suresh</h2>
+
+  <p>
+    <samp>
+      [
+      <a href="https://anuragsuresh.com">home</a>
+      ]
+      &nbsp;
+      [
+      <a href="https://www.linkedin.com/in/anurag-suresh/">linkedin</a>
+      ]
+      &nbsp;
+      [
+      <a href="mailto:anuragreggie@gmail.com">email</a>
+      ]
+    </samp>
+  </p>
+
+  <br />
+
+  <sub>best viewed with curiosity · updated whenever inspiration strikes</sub>
 </div>
-
-<br/>
-
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.anuragreggie.vercel.app/api?username=anuragreggie&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</div>
-
-[website]: http://www.anuragsuresh.com/
-[linkedin]: https://www.linkedin.com/in/anurag-st-andrews/
-
-
-
